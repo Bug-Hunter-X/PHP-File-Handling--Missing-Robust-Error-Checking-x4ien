@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP file handling: insufficient error checking when opening a file.  The `bug.php` file shows the problematic code, which fails to handle the case where the specified file does not exist.  The `bugSolution.php` provides a corrected version with improved error handling and more informative error messages.
